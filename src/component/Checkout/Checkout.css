@@ -1,0 +1,34 @@
+.checkout {
+    display: flex;
+}
+.checkout-shopping h4 {
+    background-color: white;
+    margin-left: 50px;
+    padding: 20px;
+    border-bottom: 1px solid gainsboro;
+}
+.checkout-banner {
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 1000px;
+    height: 200px;
+}
+.checkout-subtotal {
+    background-color: #fff;
+    height: 200px;
+    width: 220px;
+    margin-top: 20px;
+    margin-left: 30px;
+    text-align: center;
+}
+.checkout-subtotal h4 {
+    margin-top: 30px;
+}
+.checkout-subtotal button {
+    border: none;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(to top, rgba(255, 190, 11, 0.938), rgba(240, 211, 116, 0.897));
+}
